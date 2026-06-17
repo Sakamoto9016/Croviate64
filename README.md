@@ -5,5 +5,5 @@ You can easily use it for your own fantasy console. Just understand one thing th
 
 Also, it's GNU GPL so don't be selfish and let everyone have a bit of your idea.
 
----
+
 # Comming soon this 22th June, 2026!
