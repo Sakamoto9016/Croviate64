@@ -5,5 +5,9 @@ You can easily use it to build your own fantasy console. Just understand one thi
 
 Also, it's GNU GPL so don't be selfish and let everyone have a bit of your idea.
 
+### Here's something you need to know
+| Specs      | Desktop | Embed |
+|------------|---------|-------|
+| Everything | Yes     | Less  |
 
 # Comming soon this 22th June, 2026!
