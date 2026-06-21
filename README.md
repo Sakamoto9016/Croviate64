@@ -12,5 +12,7 @@ Also, it's GNU GPL so don't be selfish and let everyone have a bit of your idea.
 
 
 # Compile
+
 Q: How to compile?
+
 A: g++ main.cpp gfx.cpp runtime.cpp fnt.cpp utl.cpp cfg.cpp inp.cpp spl.cpp snd.cpp obf.cpp -lSDL2 -o
